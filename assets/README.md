@@ -1,0 +1,1 @@
+Any assets we may want to store if we're not using a DB
